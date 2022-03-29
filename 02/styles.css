@@ -11,7 +11,7 @@ header {
   text-align: center;
 }
 
-header img {
+#logo {
   height: 80px;
 }
 
@@ -26,4 +26,8 @@ h1 {
 
 .content img {
   margin-top: 64px;
+}
+
+a[href="https://ctco.lv/careers/vacancies/"] {
+  color: #f78da7;
 }
